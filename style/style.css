@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #edf7fe;
+}
+#gaji {
+  background-color: #edf7fe;
+}
+#deret {
+  background-color: #edf7fe;
+}
+section {
+  padding-top: 8rem;
+}
+/* Operator */
+.kalkulator {
+  width: 335px;
+  background: #9acef3;
+  margin: 30px auto;
+  padding: 10px 20px 50px 20px;
+  border-radius: 8px;
+  box-shadow: 0px 10px 20px 0px #d1d1d1;
+}
